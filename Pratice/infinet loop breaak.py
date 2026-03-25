@@ -4,4 +4,3 @@ while True:
     print(i)
     if(i>100):
         break
-    
